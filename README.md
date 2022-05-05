@@ -1,5 +1,5 @@
 #  Tippie College of Business || University of Iowa
-# Graduating Senior majoring in Finance and Business Analytics Inormation Systems
+## Graduating Senior majoring in Finance and Business Analytics Inormation Systems
 ### Iowa City, Iowa
 ### alec.gienger@gmail.com
 
