@@ -1,6 +1,6 @@
 ### Graduating Senior majoring in Finance and Business Analytics Inormation Systems
 
-###  Tippie College of Business|| University of Iowa
+###  Tippie College of Business || University of Iowa
 
 <!--
 **gienger/gienger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
