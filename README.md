@@ -1,5 +1,6 @@
 #  Tippie College of Business || University of Iowa
 ## Graduating Senior majoring in Finance and Business Analytics Inormation Systems
+https://www.linkedin.com/in/alec-gienger/
 <!--
 **gienger/gienger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
